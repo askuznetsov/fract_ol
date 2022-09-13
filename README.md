@@ -1,11 +1,8 @@
 # Fract_ol
 
-![Rose](/img/Rose.gif)
-
 This project is meant to create graphically beautiful fractals.
 
-
-![Fract'ol](/img/Mandel.jpg)
+![Rose](/img/Rose.gif)
 
 Fract'ol is a School 42 project. The purpose of this project is to create fractal renderer.
 

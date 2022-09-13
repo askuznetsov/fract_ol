@@ -11,13 +11,6 @@ Note that **macOS is only supported**.
 
 [`fract_ol.en.pdf`](/fract_ol.en.pdf) is the task file.
 
-## If you are new with minilibx
-
-1. Go to minilibx_macos folder
-2. Copy mlx.h in /usr/local/include
-3. Make
-4. Copy libmlx.a in /usr/local/lib
-
 ## Installation
 
 Clone repository and then go into the created directory and run the following command:
